@@ -1,3 +1,3 @@
 # Airbnb_Berlin
 
-Predictitng the price of Airbnb listings in Berlin, map vizualization in R. 
+Predictitng the price of Airbnb listings in Berlin, Logistic regression, map vizualization in R. 
